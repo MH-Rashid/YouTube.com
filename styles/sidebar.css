@@ -3,11 +3,10 @@
     position: fixed;
     left: 0;
     bottom: 0;
-    top: 55px;
+    top: 75px;
     width: 72px;
     background-color: white;
     z-index: 200;
-    margin-top: 5px;
   }
   
   .sidebar-link {
@@ -39,11 +38,11 @@
     position: fixed;
     left: 0;
     bottom: 0;
-    top: 55px;
+    top: 75px;
     width: 240px;
     background-color: white;
     z-index: 200;
-    padding-top: 5px;
+    /* padding-top: 5px; */
   }
   
   .sidebar-link {
